@@ -2,7 +2,7 @@ title: Byron Jenkins
 description: > # this means to ignore newlines until "baseurl:"
 Software Engineer with a focus on full-stack development and a keen interest in UI/UX Design. Computer Science B.S. Temple University '19 
 permalink: ':title/'
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: codeherk.github.io # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
