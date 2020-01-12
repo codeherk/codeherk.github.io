@@ -1,17 +1,17 @@
 title: Byron Jenkins
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+Software Engineer with a focus on full-stack development and a keen interest in UI/UX Design. Computer Science B.S. Temple University '19 
 permalink: ':title/'
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: codeherk.github.io # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
 author: Byron Jenkins # add your name
 author-img: byron-jenkins.jpg # add your photo
-about-author: Software Engineer with a focus on full-stack development and a keen interest in UI/UX Design. # add description
+about-author: Software Engineer with a focus on full-stack development and a keen interest in UI/UX Design. 
+author-degree: Computer Science B.S.  # add description
+author-school: Temple University '19  # add description
 social-twitter: codeherk # add your Twitter handle
 social-instagram: codeherk # add your Instagram handle
 social-github: codeherk # add your Github handle
@@ -22,7 +22,7 @@ social-email: byronjjenkins@gmail.com # add your Email address
 discus-identifier: codeherk # add your discus identifier
 
 # Tracker
-analytics: # Google Analytics
+analytics: UA-156023661-1 # Google Analytics
 
 # Build Settings
 markdown: kramdown
