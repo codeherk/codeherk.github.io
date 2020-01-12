@@ -23,8 +23,9 @@ Thank you 🌐
 
 - [**PCPARTSPICKER PARTS LIST**](https://pcpartpicker.com/user/codeherk/saved/TfMnLk)
 - Youtube Video detailing each component along with price (below)
-<iframe width="640" height="360" src="http://www.youtube.com/embed/ok1qyZ-equs" frameborder="0" allowfullscreen></iframe>
-
+<div>
+<iframe style="overflow: hidden; position: relative;" width="100%" height="360" src="https://www.youtube.com/embed/ok1qyZ-equs" frameborder="0" allowfullscreen></iframe>
+</div>
 # RESOURCES
 ### [PCPARTSPICKER](https://www.pcpartpicker.com/)
 This website made the process ridiculously easier. A simple way to stay organized and on track with your build. Benefits listed below
