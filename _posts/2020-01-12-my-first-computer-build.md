@@ -41,4 +41,11 @@ This website made the process ridiculously easier. A simple way to stay organize
     - Ability to export list to text or markdown (for sites like Reddit)
 
 ### [BUILDAPC SUBREDDIT](https://www.reddit.com/r/buildapc/)
-r/buildapc has supporting community from enthusiasts to beginners. Majority of questions/concerns were already addressed after reading several posts. Through several posts, I found honest product reviews, guide on how to build, and how to save/troubleshoot builds. There's no way one can go wrong by joining the community.
+r/buildapc has supporting community from enthusiasts to beginners. Majority of questions/concerns were already addressed after reading several posts. Through several posts, I found 
+- Honest product reviews 
+- How-to guides
+    - Building
+    - Troubleshooting
+    - Recovery
+
+There's no way one can go wrong by joining the community.
