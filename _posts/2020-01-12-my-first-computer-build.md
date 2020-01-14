@@ -7,9 +7,9 @@ img:  pc-build.png # Add image post (optional)
 # INTRO
 Whenever I've heard stories about PC builds, I got excited and hoped that not only will I be able to afford to build one, but I will have the courage to even attempt to do it. 
 
-Working at Best Buy over the years, I was exposed to technology from every angle. I was fortunate to work with colleagues that had unique interests. Ranging from photography, graphic design, gaming, all the way to music production, I had a resource hub. Exploring many of those interests, the one that intimidated me the most was building computers. To physically assemble components one by one shied me away. 
+Working at Best Buy over the years, I was exposed to technology from every angle. I was fortunate to work with colleagues that had unique interests. Ranging from photography, graphic design, gaming, all the way to music production, I had a resource hub. Exploring many of those interests, the one that intimidated me the most was building computers. To physically assemble components one by one seemed laborious and I believed that I was too inexperienced. I was not ready for this daunting project.
 
-It wasn't till a friend of mines at work named Thanh introduced me to his PC build(s). He explained the process and provided resources for me to learn and find my components for a reasonable price. Once he told me that he would help me build when I am ready, I literally felt like I had zero execute to not build.
+It wasn't till a friend of mines at work named Thanh introduced me to his PC builds. He explained the process and provided resources for me to learn and find my components for a reasonable price. Once he told me that he would help me build when I am ready, I literally felt like I had zero execute to not build.
 
 I wanted a custom build, but I did not want to rush to process and I certainly did not want be cheap about my build. I wanted something of high quality and performance. When I worked at Geek Squad, I asked a million questions to learn and understand the art of building. 
 
@@ -28,14 +28,14 @@ Thank you 🌐
 </div>
 # RESOURCES
 ### [PCPARTSPICKER](https://www.pcpartpicker.com/)
-This website made the process ridiculously easier. A simple way to stay organized and on track with your build. Benefits listed below
+This website made the process ridiculously easier. A simple way to stay organized and on track with your build. Benefits are listed below.
 
 - Simple UI
-    - Ability components to the list and looking at specs in comparison to others
-    - See thousands of builds similar to yours
+- Ability to add components to the list and look at specs in comparison to others
+- See thousands of builds similar to yours
 - Price Comparison Tool
     - Compares the price (including shipping) from other retailers
-    - Can receive alerts when price drops
+    - Can receive price drops alerts
 - Sharing List
     - A Public URL auto-generated
     - Ability to export list to text or markdown (for sites like Reddit)
