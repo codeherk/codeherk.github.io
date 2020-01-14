@@ -11,7 +11,7 @@ Working at Best Buy over the years, I was exposed to technology from every angle
 
 It wasn't till a friend of mines at work named Thanh introduced me to his PC builds. He explained the process and provided resources for me to learn and find my components for a reasonable price. Once he told me that he would help me build when I am ready, I literally felt like I had zero execute to not build.
 
-I wanted a custom build, but I did not want to rush to process and I certainly did not want be cheap about my build. I wanted something of high quality and performance. When I worked at Geek Squad, I asked a million questions to learn and understand the art of building. 
+I wanted a custom build, but I did not want to rush the process and I certainly did not want be cheap about my build. I wanted something of high quality and performance. When I worked at Geek Squad, I asked a million questions to learn and understand the art of building. 
 
 For years, I’ve had a plan. I even held on to parts for as long as two years (I got those components for half price, so I purchased them early even though I was not ready).
 
