@@ -3,9 +3,9 @@
     <ul>
       {% if paginator.previous_page %}
         {% if paginator.previous_page == 1 %}
-        <p><a class="newer-posts" href="{{ site.url }}/"><i class="fa fa-long-arrow-left" aria-hidden="true"></i></a></p>
+        <p><a class="newer-posts" href="{{ site.baseurl }}/"><i class="fa fa-long-arrow-left" aria-hidden="true"></i></a></p>
         {% else %}
-        <p><a class="newer-posts" href="{{ site.url }}/page/{{ paginator.previous_page }}/"><i class="fa fa-long-arrow-left" aria-hidden="true"></i></a></p>
+        <p><a class="newer-posts" href="{{ site.baseurl }}/page/{{ paginator.previous_page }}/"><i class="fa fa-long-arrow-left" aria-hidden="true"></i></a></p>
         {% endif %}
       {% endif %}
 
