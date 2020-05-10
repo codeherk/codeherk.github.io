@@ -21,7 +21,7 @@ I usually control my lights with my phone. However, when I’m on the computer a
 
 # PROJECT ARCHITECTURE
 <center>
-<img src="{{ "/assets/img/smartlightwidgetdiagram.png" | prepend: site.url }}" alt="Diagram">
+<img src="{{ "/assets/img/smartlightwidgetdiagram.png" | prepend: site.baseurl }}" alt="Diagram">
 </center>
 
 # RUN IT ON YOUR COMPUTER
