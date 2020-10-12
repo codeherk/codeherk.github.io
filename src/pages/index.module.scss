@@ -15,7 +15,7 @@ a, a:hover, a:visited{
     min-height: max-content;
     display: flex;
     align-items: center ;
-    transition: height 1s;
+    // transition: height 1s;
     @media (min-width: 1224px){
         height: 60vh;
     }

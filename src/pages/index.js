@@ -27,7 +27,7 @@ export default function Home() {
       <SEO
         title="Byron Jenkins | Former boxer that codes and creates content."
         description="Former boxer that codes and creates content."
-        image="/self-img.png"
+        image="/self-img-wide.png"
         pathname="/"
         // Boolean indicating whether this is an article:
         // article

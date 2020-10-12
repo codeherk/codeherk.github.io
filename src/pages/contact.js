@@ -8,9 +8,9 @@ export default function Contact() {
   return (
     <Layout>
       <SEO
-        title="Byron Jenkins | Projects"
-        description="List of projects."
-        image="/self-img.png"
+        title="Byron Jenkins | Contact"
+        description="Reach out to me!"
+        image="/self-img-wide.png"
         pathname="/"
         // Boolean indicating whether this is an article:
         // article

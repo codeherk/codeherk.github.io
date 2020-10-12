@@ -9,7 +9,7 @@ export default function Projects({data}) {
       <SEO
         title="Byron Jenkins | Projects"
         description="List of projects."
-        image="/self-img.png"
+        image="/self-img-wide.png"
         pathname="/"
         // Boolean indicating whether this is an article:
         // article

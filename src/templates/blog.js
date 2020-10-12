@@ -12,7 +12,7 @@ export default ({ data }) => {
             <SEO
             title={article.frontmatter.title}
             description={article.excerpt}
-            image="/self-img.png"
+            image={article.frontmatter.image.childImageSharp.original.src}
             pathname={article.fields.slug}
             // Boolean indicating whether this is an article:
             article
@@ -45,15 +45,14 @@ query ($slug: String!) {
             title
             layout
             date
+            image {
+                childImageSharp {
+                    original {
+                        src
+                    }
+                }
+            }
         }
     }
 }
 `
-
-// img {
-//     childImageSharp {
-//         fluid(maxWidth: 1080){
-//             ...GastbyImageSharpFluid
-//         }
-//     }
-// }

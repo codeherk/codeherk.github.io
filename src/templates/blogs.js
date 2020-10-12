@@ -13,14 +13,14 @@ export default function Blogs({data, pageContext}) {
       <SEO
         title="Byron Jenkins | Blogs"
         description="List of blogs."
-        image="/self-img.png"
+        image="/self-img-wide.png"
         pathname="/"
         // Boolean indicating whether this is an article:
         // article
       />
         {/* <h3>Blogs</h3> */}
         <div className={styles.message}>
-          <h1>You can find the same content posted on my <a href="https://instagram.com/codeherk"> Instagram page</a></h1>
+          <h3>You can find the same content posted on my <a href="https://instagram.com/codeherk"> Instagram page</a></h3>
           <p>This serves as an additional resource for those who need links, resources, etc.</p>
         </div>
         <div className={styles.blogList}>
