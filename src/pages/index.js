@@ -34,7 +34,8 @@ export default function Home() {
       />
       <div className={styles.jumbotron}>
           <div className={styles.bio}>
-            <h1>I'm Byron Jenkins, a former boxer that codes and <Link to="/blogs">creates content.</Link></h1>
+            <h1>Hello! I am <br></br>Byron Jenkins,</h1>
+            <h2>a Software Engineer & <Link to="/blogs">Content Creator</Link>.</h2>
           </div>
       </div>
       <div className={styles.aboutSection}>

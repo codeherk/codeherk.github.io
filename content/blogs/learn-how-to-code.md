@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Learn How To Code
-date: 2020-03-10 22:18 -0400
-# excerpt: "Websites, apps, computers, phones, game consoles, and games all contain software that allows them function. Software is made from code. "
+date: "03/10/2020"
 
 image: "learn-how-to-code.jpg"
 # img_url: "https://instagram.fphl2-4.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s750x750/89260862_193949608578223_5538696656780573869_n.jpg?_nc_ht=instagram.fphl2-4.fna.fbcdn.net&_nc_cat=107&_nc_ohc=J086k7P7l-IAX-6EJkO&oh=e8cc530f7e46fed55bb083a3177edc6a&oe=5F9C7B32"

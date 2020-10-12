@@ -1,14 +1,13 @@
 ---
 layout: post
 title: "Securing Your Accounts"
-date: 2020-07-17 16:28 -0400
-# excerpt: "Account privacy should ALWAYS be a priority. Hackers have many reasons to hack (steal/leak info, disruption, money, politics, etc.) Let’s dive into how it happens and what YOU can do to help secure what’s YOURS."
-
+date: "07/17/2020"
 image: secure-your-accounts.png
 # img_url: "https://instagram.fphl2-3.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/p750x750/109336830_970481696707466_3734846650126287804_n.jpg?_nc_ht=instagram.fphl2-3.fna.fbcdn.net&_nc_cat=102&_nc_ohc=90TvHcL0ehQAX8SYHJe&oh=8c870430a0e00d089c87cbc9483daf0a&oe=5FA47D67"
 tags: ["cybersecurity"]
 archived: false 
 ---
+
 Account privacy should ALWAYS be a priority. Hackers have many reasons to hack (steal/leak info, disruption, money, politics, etc.) Let’s dive into how it happens and what YOU can do to help secure what’s YOURS.
 
 <div style="display: flex; justify-content: center;">

@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "Learning Python: Fundamental Concepts"
-date: 2020-05-05 16:28 -0400
-# excerpt: "Python is a simple and easy language to learn. It is one of the languages I recommended to learn in my Learn How To Code post."
+date: "05/05/2020"
 image: "learning-python.jpg"
 # img_url: "https://instagram.fphl2-4.fna.fbcdn.net/v/t51.2885-15/e35/p1080x1080/95952034_231854754579894_207505718239417322_n.jpg?_nc_ht=instagram.fphl2-4.fna.fbcdn.net&_nc_cat=106&_nc_ohc=6Vp8tx0-6IcAX92unQ0&_nc_tp=19&oh=f45d3e62182e9036a73ac6dffa4638d7&oe=5F9C458A"
 tags: ["python", "beginner"]

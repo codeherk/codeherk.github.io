@@ -1,15 +1,14 @@
 ---
 layout: post
 title: "Learning SQL (Structural Query Language)"
-date: 2020-07-06 16:28 -0400
-# excerpt: "SQL is used to communicate with databases in order to manipulate & retrieve data."
+date: "07/06/2020"
 image: "learning-sql.png"
 
 # img_url: "https://instagram.fphl2-4.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/p640x640/106509614_296497531760274_8289868138951860416_n.jpg?_nc_ht=instagram.fphl2-4.fna.fbcdn.net&_nc_cat=106&_nc_ohc=jcbprGZkS-8AX_L8AmW&oh=fb4ac10a283f0325054b6436f6f2b722&oe=5FA31F2B"
 tags: ["sql", "beginner"]
 archived: false
 ---
-[](/assets/byronjenkins.png)
+
 SQL is used to communicate with databases in order to manipulate & retrieve data.
 
 <div style="display: flex; justify-content: center;">
