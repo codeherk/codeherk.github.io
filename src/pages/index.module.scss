@@ -1,0 +1,301 @@
+// h1,h2,h3,h4,h5{
+    // font-weight: bold;
+// }
+p{
+    // color: rgb(192, 192, 192);
+}
+
+a, a:hover, a:visited{
+    color: white;
+}
+
+.jumbotron {
+    // background: linear-gradient(145deg, rgba(14,17,17,1) 0%, rgba(33,33,33,1) 82%, rgba(56,56,56,1) 100%);
+    height: 50vh;
+    min-height: max-content;
+    display: flex;
+    align-items: center ;
+    transition: height 1s;
+    @media (min-width: 1224px){
+        height: 60vh;
+    }
+    
+}
+
+.me-img {
+    flex-basis: 100%;
+    width: 50%;
+
+    // Properties for larger screens
+    @media (min-width: 800px) {
+        /* flex-basis: 3 */
+        /* min-width: 50% */
+        flex-basis: 30%;
+        // margin-right: 80px;
+        text-align: center;
+    }
+    @media (min-width: 800px) {
+        flex-basis: 20%;
+    }
+    // @media (min-width: 1224px) {
+    //     flex-basis: 20%;
+    // }
+    
+    img { 
+        border-radius: 20%;
+        @media (min-width: 1224px) {
+            margin: 0;
+        }
+    } 
+} 
+
+.bio { 
+    margin-left: 16px;
+    margin-right: 16px;
+    // transition: all 1s;
+    font-size: 3em;
+    h1 { 
+        transition: all 1s;
+        font-size: 0.9em;
+        margin-bottom: 0;
+        @media(min-width: 800px){
+            font-size: 1.2em;
+            
+        }
+        @media(min-width: 1224px){
+            font-size: 1.75em;
+        }
+    } 
+    @media(min-width: 800px){
+
+        margin-top: 12vw;
+        margin-left: 12vw;
+        margin-right: 12vw;
+    }
+    @media(min-width: 1224px){
+        margin-top: 0;
+        margin-left: 18vw;
+        margin-right: 18vw;
+    }
+} 
+
+
+.about-section { 
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 100px;    
+    flex-wrap: wrap;
+    margin-top: 90px;    
+    flex-direction: column;
+    
+    @media (min-width: 800px) {
+        // margin-top: 100px;    
+        margin-top: 0;    
+    }
+    @media (min-width: 1224px) {
+        flex-direction: row;
+    }
+    
+    
+    .about-me { 
+        flex-basis: 60%;
+        @media (min-width: 800px) {
+            flex-basis: 60%;
+        }
+    }     
+} 
+
+.about-section, .education-section, .experience-section, .related-section {
+    margin-left: 24px;
+    margin-right: 24px;
+    @media (min-width: 800px) {
+        margin-left: 15vw;
+        margin-right: 15vw;
+    }
+
+    @media (min-width: 1224px) {
+        margin-left: 15vw; 
+        margin-right: 15vw;
+    }
+}
+
+.education-section {
+    position: relative;
+    border-radius: 16px;
+    border: 4px solid white;
+    padding: 30px;
+    margin-bottom: 100px;
+  
+    h2{
+        background-color: #0E1111;
+    }
+    
+    p {
+        font-size: 18px;
+        margin: 0;
+        
+    }
+    
+    .school{
+        margin: 0;
+        h2 {
+            position: absolute;
+            top: -20px;
+            padding: 0 12px;
+            left: 18px;
+        }
+        p {
+            &:first-of-type {
+                margin-top: 18px; 
+                font-weight: bold;
+            }
+            &:not(:first-of-type){
+                font-style: italic;
+            }
+        }
+    }
+    .completed-courses{
+        h2{
+            margin-top: 32px;
+            margin-top: 32px;
+        }
+    }
+    @media (min-width: 1224px) {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        
+        h2{
+            top: -30px;
+            padding: 0 12px;
+        }
+
+        .school{
+            width: 30%;
+            margin: 0;
+
+            h2 {
+                top: -30px;
+                left: 18px;
+            }
+            p {
+                &:first-of-type { 
+                    font-weight: bold;
+                }
+                &:not(:first-of-type){
+                    font-style: italic;
+                }
+            }
+        }
+        .completed-courses{
+            width: 30%;
+            text-align: right;
+            h2 {
+                position: absolute;
+                right: 30px;
+                margin-top: 0;
+            }
+
+            p {
+    
+            }
+        }
+    }
+    
+}
+
+.experience-section { 
+    margin-bottom: 100px;
+    padding-left: 36px;
+    border-left: 4px solid white;
+
+    &::before {
+        content: "";
+        position: absolute;
+        height: 2em;
+        width: 2em;
+        left: calc(24px - 1em);
+        background-color: white;
+        border-radius: 50%;
+ 
+        @media (min-width: 800px) {
+            height: 3em;
+            width: 3em;
+            left: calc(15vw - 1.5em);
+        }
+        
+        @media (min-width: 1224px) {
+            height: 3em;
+            width: 3em;
+            left: calc(15vw - 1.5em);
+        }
+    }
+
+    @media (min-width: 800px) {
+        padding-left: 80px;
+        margin-bottom: 100px;
+    }
+
+} 
+
+.arrow-up {
+    width:  75%;
+    height: 100px; 
+    margin-left: 290px;
+    border-top: 4px solid white;
+    transform: rotate(30deg)
+    
+}
+
+
+.shape-1{
+    width: calc(100vw - 48px);
+    height: 100px;
+    margin-left: -40px;
+    border-top: 4px solid white;
+    border-right: 4px solid white;
+    border-left: 4px solid #0e1111;
+    transform: skewY(15deg) translateY(30vw);
+    @media (min-width: 800px){
+        width: calc(100% + 81px);
+        height: 5vw;
+        margin-left: -81px;
+        transform: skewY(11deg) translateY(13vw);
+    }
+    
+}
+
+.related-section { 
+    margin-top: 40vw;
+    margin-bottom: 100px;
+    padding-right: 36px;
+    border-right: 4px solid white;
+    text-align: end;
+
+    &::before {
+        content: "";
+        position: absolute;
+        height: 2em;
+        width: 2em;
+        right: calc(24px - 1em);
+        background-color: white;
+        border-radius: 50%;
+ 
+        @media (min-width: 800px) {
+            height: 3em;
+            width: 3em;
+            right: calc(15vw - 1.5em);
+        }
+
+        @media (min-width: 1224px) {
+            height: 3em;
+            width: 3em;
+            right: calc(15vw - 1.5em);
+        }
+    }
+
+    @media (min-width: 800px) {
+        padding-right: 80px;
+        margin-top: 18vw;
+    }
+} 

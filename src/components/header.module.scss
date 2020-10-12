@@ -1,0 +1,180 @@
+.header {
+  color: white;
+  
+  nav {
+    display: block;
+    height: 100px;
+    padding-top: 24px;
+    overflow: hidden;
+    transition: height 0.5s ease-in-out;
+    border-bottom: solid 1px white;
+
+    .brand-link {
+      width: fit-content;
+      position: absolute;
+      color: white;
+      text-decoration: none;
+      top: 16px;
+      left: 50%;
+      right: 50%;
+      transform: translate(-50%, 0);
+      span {
+        font-size: 30px;
+        line-height: 30px;
+        display: block;
+      }
+      // TODO: BRAND LINK STYLING FOR DESKTOP AND TABLET
+      @media(min-width: 800px){
+        position: relative;
+        transform: none;
+        top: 0;
+        left: 18px;
+        right: none;
+      }
+    }
+    .menu {
+      margin-top: 24px;
+      list-style: none;
+      flex-direction: column;
+      @media (min-width: 800px) {
+        width: max-content;
+        position: absolute;
+        top: 0;
+        left: 50%;
+        right: 50%;      
+        transform: translateX(-50%);
+      }
+      .menu-links {
+        display: block;
+        padding: 16px 16px;
+        color: white;
+        text-decoration: none;
+        
+        &:hover{
+          text-decoration: underline;
+        }
+        @media (min-width: 800px) {
+          display: inline-block;
+          padding-right: 72px;
+        }
+      }
+    }
+    
+    button{
+      background-color: transparent;
+      border: none;
+      fill: white;
+      margin-left: 16px;
+      vertical-align: middle;
+      
+      @media (min-width: 800px) {
+        display: none;
+      }
+    }
+  }
+  .nav-expanded {
+    height: 300px;
+  }
+  
+  .link, link:link, link:visited {
+      color: white;
+      text-decoration: none;
+  }
+}
+
+  
+  // a, a:link, a:visited {
+  // }
+
+.social{
+  position: relative;
+  display: flex;
+  width: 100%;
+  flex-direction: row;
+  text-align: center;
+  top: 53vh;
+
+  @media(min-width: 800px){
+    position: fixed;
+    width: fit-content;
+    flex-direction: column;
+    height: 500px;
+    top: 25%;
+    right: 36px;
+  }
+
+  a {
+    flex-basis: 25%;
+  }
+  
+  svg {
+      fill: #fff;
+      // margin-bottom: 56px;
+      /* cursor: pointer; */
+  }
+}
+
+/* Bob */
+@-webkit-keyframes hvr-bob {
+    0% {
+      -webkit-transform: translateY(-8px);
+      transform: translateY(-8px);
+    }
+    50% {
+      -webkit-transform: translateY(-4px);
+      transform: translateY(-4px);
+    }
+    100% {
+      -webkit-transform: translateY(-8px);
+      transform: translateY(-8px);
+    }
+  }
+  @keyframes hvr-bob {
+    0% {
+      -webkit-transform: translateY(-8px);
+      transform: translateY(-8px);
+    }
+    50% {
+      -webkit-transform: translateY(-4px);
+      transform: translateY(-4px);
+    }
+    100% {
+      -webkit-transform: translateY(-8px);
+      transform: translateY(-8px);
+    }
+  }
+  @-webkit-keyframes hvr-bob-float {
+    100% {
+      -webkit-transform: translateY(-8px);
+      transform: translateY(-8px);
+    }
+  }
+  @keyframes hvr-bob-float {
+    100% {
+      -webkit-transform: translateY(-8px);
+      transform: translateY(-8px);
+    }
+  }
+  .hvr-bob {
+    display: inline-block;
+    vertical-align: middle;
+    -webkit-transform: perspective(1px) translateZ(0);
+    transform: perspective(1px) translateZ(0);
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+  }
+  .hvr-bob:hover, .hvr-bob:focus, .hvr-bob:active {
+    -webkit-animation-name: hvr-bob-float, hvr-bob;
+    animation-name: hvr-bob-float, hvr-bob;
+    -webkit-animation-duration: .3s, 1.5s;
+    animation-duration: .3s, 1.5s;
+    -webkit-animation-delay: 0s, .3s;
+    animation-delay: 0s, .3s;
+    -webkit-animation-timing-function: ease-out, ease-in-out;
+    animation-timing-function: ease-out, ease-in-out;
+    -webkit-animation-iteration-count: 1, infinite;
+    animation-iteration-count: 1, infinite;
+    -webkit-animation-fill-mode: forwards;
+    animation-fill-mode: forwards;
+    -webkit-animation-direction: normal, alternate;
+    animation-direction: normal, alternate;
+  }

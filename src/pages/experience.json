@@ -1,0 +1,68 @@
+{
+   "experience": [
+       {
+           "id": 1,
+           "time_period": "Current - Jul 2019",
+           "company": "TD Bank",
+           "position": "IT Developer III",
+           "location": "Mount Laurel, New Jersey",
+           "description": [
+               "Maintained, reviewed and tested source code for TD APIs",
+               "Implemented NodeJS reusable modules for TD's US Card Framework",
+               "Developed user interfaces, wireframes and prototypes for TD card products"
+           ]    
+       },
+       {
+           "id": 2,
+           "time_period": "May 2018 - Jul 2019",
+           "company": "TD Bank",
+           "position": "Technology Intern",
+           "location": "Wilmington, Delaware",
+           "description": [
+               "Developed prototypes of TD's online credit card platform as a Single Page Application (SPA) with a widget driven UX via Angular"
+           ]    
+       },
+       {
+           "id": 3,
+           "time_period": "Jan 2019 - May 2019",
+           "company": "Temple University",
+           "position": "Teaching Assistant: iOS Application Dev.",
+           "location": "Philadelphia, Pennsylvania",
+           "description": [
+               "Instructed and worked with students to promote their learning of Xcode and Swift",
+               "Reduced faculty and course disorder by managing class in instructors absence"
+           ]    
+       }
+   ],
+
+   "additional_experience": [
+       {
+           "id": 1,
+           "time_period": "Current - 2018",
+           "title": "Content Creator",
+           "description": [
+               "Produced content related to but not limited to software development and technology",
+               "Collaborate with other oontent creators",
+               "Effectively contribute and engage with community using social media"
+           ]
+       },
+       {
+            "id": 2,
+            "time_period": "Current - 2016",
+            "title": "iOS Development",
+            "description": [
+                "Implemented and published a color coordination game with Swift",
+                "Monetized by including in-app advertisements via Google AdMob",
+                "Utilized Adobe applications to create assets and marketing material" 
+            ]
+        },
+        {
+            "id": 3,
+            "time_period": "Sep 2018",
+            "title": "JP Morgan's Code For Good Hackathon",
+            "description": [
+                "Developed an Admin application that allows B+ Foundation to enhance engagement with donors through data analytics and machine learning"
+            ]
+        }
+   ]
+}
