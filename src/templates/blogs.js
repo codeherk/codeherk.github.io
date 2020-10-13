@@ -55,18 +55,6 @@ export default function Blogs({data, pageContext}) {
                 </Link>  
             ))}
         </div>
-        {/* <div className={styles.blogList}>
-            <div className={styles.blog}>
-                <h3>Blog Title</h3>
-                <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut.</p>
-                
-                    <span className={styles.blogDate}>2020, Month Day</span>
-                <div className={styles.tags}>
-                    <span>#javascript</span>
-                    <span>#javascript</span>
-                </div>
-            </div>
-        </div> */}
         <Pagination pageContext={pageContext} />
     </Layout>
   )

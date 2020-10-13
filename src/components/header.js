@@ -43,19 +43,15 @@ class Header extends React.Component {
               <rect y="60" width="100" height="15"></rect>
             </svg>  
           </button>
-          <a href="#default" className={headerStyles.brandLink}>
+          <Link to="/" className={headerStyles.brandLink}>
             <span>CODE</span>
             <span>HERK</span>
-          </a>
-            <div className={headerStyles.menu}>
+          </Link>
+          <div className={headerStyles.menu}>
             {menuLinks.map((props, idx) => (
                 <Link key={idx} to={props.link} className={headerStyles.menuLinks}>{props.name}</Link>
             ))}
-                {/* <Link to="/" className={headerStyles.menuLinks}>Home</Link>
-                <Link to="/blogs" className={headerStyles.menuLinks}>Blogs</Link>
-                <Link to="/projects" className={headerStyles.menuLinks}>Projects</Link> */}
-                {/* <Link to="/contact" className={headerStyles.menuLinks}>Contact</Link> */}
-            </div>
+          </div>
         </nav>
         {((this.props.showSocials != null) ? this.props.showSocials : true ) && 
         <div className={headerStyles.social}>
