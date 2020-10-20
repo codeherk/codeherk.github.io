@@ -1,11 +1,11 @@
 .article__meta,
 .article__tax {
-  font-family: var(--highlight-font);
+  // font-family: var(--highlight-font);
   font-size: 80%;
 }
 
 .article {
-  max-width: var(--content-w-regular);
+  // max-width: var(--content-w-regular);
   margin: 0 auto;
   padding: 0 2rem;
   transition: all 1s;
@@ -15,7 +15,7 @@
   }
  
   @media (min-width: 1224px) {
-      padding: 0 16rem;
+      padding: 0 25vw;
   }
 }
 
