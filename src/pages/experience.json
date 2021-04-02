@@ -2,7 +2,16 @@
    "experience": [
        {
            "id": 1,
-           "time_period": "Current - Jul 2019",
+           "time_period": "Jan 2021 - Current",
+           "company": "Capital One",
+           "position": "Software Engineer",
+           "location": "Manhattan, New York",
+           "description": [
+           ]    
+       },
+       {
+           "id": 2,
+           "time_period": "Jul 2019 - Jan 2021",
            "company": "TD Bank",
            "position": "IT Developer III",
            "location": "Mount Laurel, New Jersey",
@@ -13,7 +22,7 @@
            ]    
        },
        {
-           "id": 2,
+           "id": 3,
            "time_period": "May 2018 - Jul 2019",
            "company": "TD Bank",
            "position": "Technology Intern",
@@ -23,7 +32,7 @@
            ]    
        },
        {
-           "id": 3,
+           "id": 4,
            "time_period": "Jan 2019 - May 2019",
            "company": "Temple University",
            "position": "Teaching Assistant: iOS Application Dev.",
@@ -38,7 +47,7 @@
    "additional_experience": [
        {
            "id": 1,
-           "time_period": "Current - 2018",
+           "time_period": "2018 - Current",
            "title": "Content Creator",
            "description": [
                "Produced content related to but not limited to software development and technology",
@@ -48,7 +57,7 @@
        },
        {
             "id": 2,
-            "time_period": "Current - 2016",
+            "time_period": "2016 - Current",
             "title": "iOS Development",
             "description": [
                 "Implemented and published a color coordination game with Swift",
