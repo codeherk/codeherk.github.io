@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Website Made From Scratch
-date: "10/19/2020"
+date: "2020-10-19"
 image: "website-made-from-scratch.png"
 tags: ["react", "webdev"]
 archived: false

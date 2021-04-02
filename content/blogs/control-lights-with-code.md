@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Control Lights With Code
-date: "04/23/2020"
+date: "2020-04-23"
 image: "control-lights.jpg"
 tags: ["javascript", "homeautomation"]
 archived: false

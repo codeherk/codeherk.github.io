@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My FIRST Computer Build
-date: "01/12/2020"
+date: "2020-01-12"
 image: "first-pc-build.png"
 # img_url: "https://scontent-lga3-2.cdninstagram.com/v/t51.2885-15/e15/p150x150/79946531_731073767415957_5702129174968510943_n.jpg?_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=109&_nc_ohc=UPcV73g7SlgAX9-iZnm&_nc_tp=19&oh=63d65032927ed4305aaa4634e4dcb289&oe=5F7DCD68"
 # tags: ["python", "s"]

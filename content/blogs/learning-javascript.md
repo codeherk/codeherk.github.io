@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Learning JavaScript: Fundamental Concepts"
-date: "05/15/2020"
+date: "2020-05-15"
 image: "learning-javascript.jpg"
 
 img_url: "https://instagram.fphl2-3.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/p750x750/97523317_2939337539455557_6040468947473687804_n.jpg?_nc_ht=instagram.fphl2-3.fna.fbcdn.net&_nc_cat=109&_nc_ohc=rhUyTi5bQcoAX-FXo1M&oh=dd88dba0e1ea6c629b7a55a81b37f33d&oe=5FA5D076"

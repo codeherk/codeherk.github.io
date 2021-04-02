@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How It's Made: Websites"
-date: "08/29/2020"
+date: "2020-08-29"
 
 image: "how-its-made-websites.jpg"
 # img_url: "https://instagram.fphl2-4.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/p640x640/118405216_618979968802181_684546285869502101_n.jpg?_nc_ht=instagram.fphl2-4.fna.fbcdn.net&_nc_cat=105&_nc_ohc=7GRRGS9HuKgAX8yxtva&oh=1b47e36fffd9cf4d42b281e40543d354&oe=5FA35E8B"

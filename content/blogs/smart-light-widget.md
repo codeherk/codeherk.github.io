@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Smart Light Widget
-date: "04/24/2020"
+date: "2020-04-24"
 image: "smart-light-widget.jpg"
 
 img_url: "https://instagram.fphl2-4.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/94880578_2540243859563106_3355075111344625381_n.jpg?_nc_ht=instagram.fphl2-4.fna.fbcdn.net&_nc_cat=106&_nc_ohc=wJWBP3Ww0rkAX8K5nqR&oh=13a944df6b1ba53cb199691484c3a4ec&oe=5F7D61E8"
